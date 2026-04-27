@@ -1,0 +1,15 @@
+{
+  "batch_id": "batch_001",
+  "timestamp": "SystemTime { intervals: 134214073067340961 }",
+  "merkle_root": "56b43e20c9d7984748c53d59f8fb57baaf33eeac4d5c29fbafb3484c683a8a3e",
+  "files": [
+    {
+      "file_name": "2026-f697-paper.pdf",
+      "file_hash": "eab3fe8c2da655d8d7305026015afcce31dabd8d2d84fdde6d721ff0f3c41e15"
+    },
+    {
+      "file_name": "rfc7519.txt.pdf",
+      "file_hash": "4a53aad9a17c151c95e874371278c78bc2c9f201410f623fe5638d37bc928e6b"
+    }
+  ]
+}
