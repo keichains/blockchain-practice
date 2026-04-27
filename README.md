@@ -1,9 +1,10 @@
 # blockchain-practice
 Cách chạy thử:
-  Tải Rust 
-  Cho một vài file .docs .pdf,... vào folder sample_docs
-  cargo run file main.rs trong phần merkle_tree
-  chạy file add_batch_to_blockchain.py Các file được gom thành một batch Hệ thống dùng Merkle Tree để:
+     
+     Tải Rust 
+     Cho một vài file .docs .pdf,... vào folder sample_docs
+     cargo run file main.rs trong phần merkle_tree
+     chạy file add_batch_to_blockchain.py Các file được gom thành một batch Hệ thống dùng Merkle Tree để:
     
     hash từng file
     tạo Merkle Root đại diện cho toàn bộ batch Thông tin chi tiết của batch được lưu ở folder output dưới dạng batch_record.json
